@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/3/1d281dcca572416f88e1805378483ada/artifacts
+end_time: 1652027689616
+entry_point_name: ''
+experiment_id: '3'
+lifecycle_stage: active
+name: ''
+run_id: 1d281dcca572416f88e1805378483ada
+run_uuid: 1d281dcca572416f88e1805378483ada
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652027685890
+status: 3
+tags: []
+user_id: kanishkkumar
