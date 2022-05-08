@@ -25,9 +25,9 @@ Enjoy your predictions.
 
 - You can deploy this model/app on Openshift just using git project url with OpenShift build menu.
 
-Input web ui:
+Input mlflow ui:
 
-![Input web ui](images/input_form.png "Input web ui")
+input_form1.png
 
 Predictions:
 
