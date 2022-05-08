@@ -27,7 +27,8 @@ Enjoy your predictions.
 
 Input mlflow ui:
 
-input_form1.png
+![image](https://user-images.githubusercontent.com/96828026/167298299-9097b39c-248d-46f9-8c76-ede121c0a886.png)
+
 
 Predictions:
 
