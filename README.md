@@ -26,13 +26,13 @@ Enjoy your predictions.
 
 - You can deploy this model/app on Openshift just using git project url with OpenShift build menu.
 
-Input mlflow ui:
+### Input mlflow ui:
 
 ![image](https://user-images.githubusercontent.com/96828026/167298412-d3d32442-c2c3-43f9-8276-c8ad460cb051.png)
 
 
 
-Predictions:
+### Predictions:
 
 ![image](https://user-images.githubusercontent.com/96828026/167298377-51f47ac7-9b3e-4730-8409-608f89df20f1.png)
 
