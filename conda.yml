@@ -1,10 +1,12 @@
-name: Final_Project
 channels:
-  - defaults
+- conda-forge
 dependencies:
-  - numpy>=1.14.3
-  - pandas>=1.0.0
-  - scikit-learn=0.19.1
-  - pip
-  - pip:
-    - mlflow
+- python=3.8.8
+- pip<=21.0.1
+- pip:
+  - mlflow
+  - cloudpickle==1.6.0
+  - psutil==5.8.0
+  - scikit-learn==0.24.1
+  - typing-extensions==4.0.1
+name: mlflow-env
