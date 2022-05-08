@@ -1,10 +1,12 @@
-name: tutorial
+name: Final_Project
 
 conda_env: conda.yaml
 
 entry_points:
   main:
     parameters:
-      alpha: float
-      l1_ratio: {type: float, default: 0.1}
-    command: "python train.py {alpha} {l1_ratio}"
+      SepalLengthCm: {type: float, default: 4.6}
+      SepalWidthCm: {type: float, default: 3.6}
+      PetalLengthCm: {type: float, default: 1.0}
+      PetalWidthCm: {type: float, default: 0.2}
+    command: "python app.py {SepalLengthCm} {SepalWidthCm} {PetalLengthCm} {PetalWidthCm}"
