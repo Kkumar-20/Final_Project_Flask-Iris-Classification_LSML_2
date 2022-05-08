@@ -32,4 +32,5 @@ Input mlflow ui:
 
 Predictions:
 
-![Predictions](images/prediction_result.png "Predictions")
+![image](https://user-images.githubusercontent.com/96828026/167298377-51f47ac7-9b3e-4730-8409-608f89df20f1.png)
+
