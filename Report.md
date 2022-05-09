@@ -81,6 +81,28 @@ Enjoy your predictions.
 
 ![image](https://user-images.githubusercontent.com/96828026/167298377-51f47ac7-9b3e-4730-8409-608f89df20f1.png)
 
+```
+SVM
+
+The accuracy of the SVM using petals is: 0.9777777777777777
+The accuracy of the SVM using Sepal is: 0.8
+
+Logistic Regression
+
+The accuracy of the Logistic Regression using petals is: 0.9777777777777777
+The accuracy of the Logistic Regression using Sepals is: 0.8222222222222222
+
+Decision Tree
+
+The accuracy of the Decision Tree using petals is: 0.9555555555555556
+The accuracy of the Decision Tree using Sepals is: 0.6666666666666666
+
+K-Nearest Neighbours
+
+The accuracy of the KNN using petals is: 0.9777777777777777
+The accuracy of the KNN using Sepals is: 0.7333333333333333
+```
+
 ### Step-by-step process of deploying a model to production
 ```
 - Elasticnet model (alpha=0.300000, l1_ratio=0.500000):
