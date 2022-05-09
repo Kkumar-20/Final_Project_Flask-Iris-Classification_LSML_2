@@ -82,6 +82,7 @@ Enjoy your predictions.
 ![image](https://user-images.githubusercontent.com/96828026/167298377-51f47ac7-9b3e-4730-8409-608f89df20f1.png)
 
 ### Step-by-step process of deploying a model to production
+```
 - Elasticnet model (alpha=0.300000, l1_ratio=0.500000):
   - RMSE: 0.22744552699068046
   - MAE: 0.2016874375196894
@@ -106,6 +107,7 @@ Enjoy your predictions.
   - RMSE: 0.5063373885270652
   - MAE: 0.47448979591836743
   - R2: -0.046875
+  ```
   
 ### Asynchronous Iris Project
 ```
