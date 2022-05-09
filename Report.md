@@ -82,15 +82,15 @@ Enjoy your predictions.
 ![image](https://user-images.githubusercontent.com/96828026/167298377-51f47ac7-9b3e-4730-8409-608f89df20f1.png)
 
 ### Step-by-step process of deploying a model to production
-Elasticnet model (alpha=0.300000, l1_ratio=0.500000):
-  RMSE: 0.22744552699068046
-  MAE: 0.2016874375196894
-  R2: 0.7887631733620541
-Elasticnet model (alpha=0.300000, l1_ratio=0.300000):
-  RMSE: 0.21430541884512883
-  MAE: 0.19068179306295002
-  R2: 0.8124655154355901
-Elasticnet model (alpha=0.800000, l1_ratio=0.500000):
+- Elasticnet model (alpha=0.300000, l1_ratio=0.500000):
+  - RMSE: 0.22744552699068046
+  - MAE: 0.2016874375196894
+  - R2: 0.7887631733620541
+- Elasticnet model (alpha=0.300000, l1_ratio=0.300000):
+  - RMSE: 0.21430541884512883
+  - MAE: 0.19068179306295002
+  - R2: 0.8124655154355901
+- Elasticnet model (alpha=0.800000, l1_ratio=0.500000):
   RMSE: 0.3388654849846033
   MAE: 0.3143659462145404
   R2: 0.5311115809351108
