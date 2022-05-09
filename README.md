@@ -22,20 +22,20 @@ This is a simple iris flower classification model deployment project as flask ap
 Enjoy your predictions.
 # Mlflow
 ## mlruns/artifacts
-MLmodel
-conda.yaml
-model.pkl
-requirements.txt
+- MLmodel
+- conda.yaml
+- model.pkl
+- requirements.txt
 
 ## mlruns/params
-alpha
-l1_ratio
+- alpha
+- l1_ratio
 
 ## mlruns/tags/
-mlflow.log-model.history
-mlflow.source.name
-mlflow.source.type
-mlflow.user
+- mlflow.log-model.history
+- mlflow.source.name
+- mlflow.source.type
+- mlflow.user
 
 # Data Set Description
 
