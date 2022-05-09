@@ -69,10 +69,9 @@ Enjoy your predictions.
 
 8. Class Distribution: 33.3% for each of 3 classes.
 
-## On Kubernetes
-- You can deploy the model/app on Kubernetes with deployment object.
-
-- You can deploy this model/app on Openshift just using git project url with OpenShift build menu.
+## Play with Docker
+- Play with Docker (PWD) is a project hacked by Marcos Liljedhal and Jonathan Leibiusky and sponsored by Docker Inc.
+- https://labs.play-with-docker.com/#
 
 ### Input mlflow ui:
 
