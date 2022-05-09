@@ -1,14 +1,14 @@
-Report
+Report[kkumar@edu.hse.ru]
 # Final Project Flask Iris Classification
 This is a simple iris flower classification model deployment project as flask app.
 
 ## Directly run on Docker without building
 
-`  docker run --rm -d -p 8080:8080 erkansirin78/flask-iris-classification:2021-3 `
+`  docker run --rm -d -p 8080:8080 Kkumar-20/Final_Project_Flask-Iris-Classification_LSML_2:2022-5 `
 
 ## Build an image (Dockerize) and run on Docker container
 - Download project
-` git clone https://github.com/erkansirin78/flask-iris-classification.git ` 
+` git clone https://github.com/Kkumar-20/Final_Project_Flask-Iris-Classification_LSML_2` 
 
 ` cd flask-iris-classification `
 
